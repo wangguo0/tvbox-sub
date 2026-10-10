@@ -1,36 +1,37 @@
 # TVBox 订阅源报告
 
-**时间**: 2026-10-08 23:37:12
+**时间**: 2026-10-11 05:12:05
 
-**站点**: 1696
+**站点**: 1693
 
-**直播**: 65频道/437线路
+**直播**: 65频道/436线路
 
 **spider**: ``
 
-**耗时**: 332秒
+**耗时**: 225秒
 
 ## 拉取失败的源
 
 - HTTP Invalid URL 'shturl.cc/90LTSi6d0StKAZDYZoZIt0d5MmjBCQ9jzGBQ9': No scheme supplie
-- HTTP HTTPSConnectionPool(host='xn--dkw0c.e.nxog.top', port=443): Max retries exceeded
 - 解析错误: Invalid control character at: line 655 column 142 (char 1890
+- HTTP HTTPSConnectionPool(host='xn--dkw0c.e.nxog.top', port=443): Max retries exceeded
 - HTTP HTTPSConnectionPool(host='xn--anna-wn6lw489o.v.nxog.top', port=443): Max retries
 - HTTP 403
 - 解析错误: Expecting ',' delimiter: line 45 column 5 (char 1527)
-- 解析错误: Expecting value: line 1 column 1 (char 0)
 - HTTP HTTPConnectionPool(host='fty.xxooo.cf', port=80): Max retries exceeded with url:
-- 解析错误: Expecting value: line 1 column 1 (char 0)
+- HTTP 404
 - msg: 数据列表
 - HTTP 403
 - 解析错误: Expecting value: line 1 column 1 (char 0)
-- 解析错误: Expecting value: line 1 column 1 (char 0)
 - HTTP HTTPSConnectionPool(host='xn--onno-wn6lw489o.v.nxog.top', port=443): Max retries
+- 解析错误: Expecting value: line 1 column 1 (char 0)
+- 解析错误: Expecting value: line 1 column 1 (char 0)
+- 解析错误: Expecting value: line 1 column 1 (char 0)
+- 解析错误: Expecting value: line 1 column 1 (char 0)
 - HTTP 404
 - 解析错误: Expecting value: line 1 column 1 (char 0)
 - 解析错误: Expecting value: line 1 column 1 (char 0)
 - 解析错误: Expecting value: line 29 column 1 (char 2919)
 - HTTP 404
 - 解析错误: Expecting value: line 1 column 1 (char 0)
-- 解析错误: Expecting value: line 1 column 1 (char 0)
-- HTTP 404
+- HTTP HTTPConnectionPool(host='116.196.116.76', port=80): Max retries exceeded with ur
