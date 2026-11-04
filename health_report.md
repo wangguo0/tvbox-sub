@@ -1,14 +1,14 @@
 # TVBox 订阅源报告
 
-**时间**: 2026-11-02 05:43:51
+**时间**: 2026-11-05 07:14:49
 
-**站点**: 1744
+**站点**: 1731
 
-**直播**: 65频道/398线路
+**直播**: 65频道/377线路
 
 **spider**: ``
 
-**耗时**: 201秒
+**耗时**: 222秒
 
 ## 拉取失败的源
 
@@ -18,19 +18,19 @@
 - 解析错误: Expecting ',' delimiter: line 45 column 5 (char 1527)
 - HTTP HTTPSConnectionPool(host='xn--dkw0c.e.nxog.top', port=443): Max retries exceeded
 - 解析错误: Expecting value: line 1 column 1 (char 0)
-- 解析错误: Expecting value: line 1 column 1 (char 0)
-- HTTP HTTPSConnectionPool(host='xn--anna-wn6lw489o.v.nxog.top', port=443): Max retries
 - HTTP HTTPConnectionPool(host='fty.xxooo.cf', port=80): Max retries exceeded with url:
 - HTTP HTTPConnectionPool(host='vip.boluo.live', port=80): Max retries exceeded with ur
-- 解析错误: Expecting value: line 29 column 1 (char 2919)
 - 解析错误: Expecting value: line 1 column 1 (char 0)
-- HTTP HTTPSConnectionPool(host='xn--onno-wn6lw489o.v.nxog.top', port=443): Max retries
+- 解析错误: Expecting value: line 29 column 1 (char 2919)
+- HTTP HTTPSConnectionPool(host='xn--anna-wn6lw489o.v.nxog.top', port=443): Max retries
 - msg: 数据列表
 - 解析错误: Expecting value: line 1 column 1 (char 0)
 - 解析错误: Expecting value: line 1 column 1 (char 0)
-- HTTP 404
+- 解析错误: Expecting value: line 1 column 1 (char 0)
 - 解析错误: Expecting value: line 1 column 1 (char 0)
 - HTTP 404
+- HTTP HTTPSConnectionPool(host='xn--onno-wn6lw489o.v.nxog.top', port=443): Max retries
+- 解析错误: Expecting value: line 1 column 1 (char 0)
 - 解析错误: Expecting value: line 1 column 1 (char 0)
 - HTTP 404
 - HTTP 404
